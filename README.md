@@ -1,12 +1,45 @@
-# React + Vite
+# 📱 App Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **App Store** is a modern, responsive single-page application (SPA) built with **React**. It allows users to discover, install, and review apps in various categories like Education, Productivity, and Gaming.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Site
 
-## Expanding the ESLint configuration
+https://gorgeous-figolla-bc1175.netlify.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- 🔐 **Firebase Authentication** (Email/Password, Google Login)
+- 📲 **App Install/Uninstall System**
+- 📝 **Review System** (Only for users who installed the app)
+- 📊 **Trending Apps & Categorized Listings**
+- 🎡 **Slider for Featured Apps**
+- 🔍 **Protected Routes** (e.g., App Details, My Profile)
+- 🧑 **Edit User Profile (name & photo)**
+- ✅ **Forgot Password Functionality**
+- 📱 **Responsive Design** (Mobile, Tablet, Desktop)
+- 🎯 **Dynamic Page Titles** with `react-helmet`
+- ❌ **404 Not Found Page**
+
+---
+
+## 🧰 Technologies & Libraries
+
+- **React** `^19.1.0`
+- **React Router DOM** `^7.6.0`
+- **Firebase** `^11.7.1`
+- **Tailwind CSS** `^4.1.5`
+- **React Slick** `^0.30.3` + `slick-carousel`
+- **SweetAlert2** `^11.21.0`
+- **React Icons** `^5.5.0`
+- **Lucide React** `^0.508.0`
+- **React Toastify** `^11.0.5`
+- **React Helmet** `^6.1.0`
+- **React Fast Marquee** `^1.6.5`
+
+---
+
+

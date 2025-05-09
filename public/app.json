@@ -1,0 +1,323 @@
+[
+    {
+      "id": "app001",
+      "name": "Programming Hero",
+      "developer": "Programming Hero Ltd.",
+      "thumbnail": "https://i.ibb.co.com/5gXg7BgQ/programminghero-logo.jpg",
+      "banner": "https://i.ibb.co.com/20G48D3n/slider2.png",
+      "downloads": 3500000,
+      "category": "Education",
+      "rating": 4.8,
+      "promotion": true,
+      "description": "Programming Hero is a fun and interactive way to learn programming.",
+      "features": ["Interactive coding lessons", "Real-world projects", "Gamified learning experience"],
+      "reviews": [
+        {
+          "user": "coder_nadia",
+          "rating": 5,
+          "comment": "Best app for beginners!"
+        }
+      ]
+    },
+    {
+      "id": "app002",
+      "name": "Phitron CSE Fundamentals",
+      "developer": "Phitron Ltd.",
+      "thumbnail": "https://i.ibb.co.com/wrr2tNwV/unnamed.png",
+      "banner": "https://i.ibb.co.com/gZ5ShZ4y/slider1.png",
+      "downloads": 2500000,
+      "category": "Education",
+      "rating": 4.9,
+      "promotion": true,
+      "description": "Phitron CSE Fundamentals covers structured programming, data structures, and algorithms.",
+      "features": ["Structured programming", "DSA", "Assignments"],
+      "reviews": [
+        {
+          "user": "student_rahim",
+          "rating": 5,
+          "comment": "Great depth and practical lectures!"
+        }
+      ]
+    },
+    {
+      "id": "app003",
+      "name": "Neptune Coding",
+      "developer": "Neptune Tech",
+      "thumbnail": "https://i.ibb.co.com/5xgVHjQ3/558149-47d63180e690f12db75936748863955bd70d3aaf-programming-hero-l.jpg",
+      "banner": "https://i.ibb.co.com/20G48D3n/slider2.png",
+      "downloads": 1800000,
+      "category": "Education",
+      "rating": 4.6,
+      "promotion": true,
+      "description": "Neptune Coding teaches advanced coding concepts with clean UI.",
+      "features": ["Advanced tutorials", "Clean design", "Quizzes"],
+      "reviews": [
+        {
+          "user": "dev_sadia",
+          "rating": 4,
+          "comment": "Loved the clean UI and structure."
+        }
+      ]
+    },
+    {
+      "id": "app004",
+      "name": "EduMax",
+      "developer": "MaxLearn",
+      "thumbnail": "https://i.ibb.co.com/1fqkXDt4/images-2.png",
+      "banner": "https://i.ibb.co.com/rRVLWRK8/images-1.png",
+      "downloads": 1200000,
+      "category": "Education",
+      "rating": 4.3,
+      "promotion": false,
+      "description": "EduMax offers school and college level courses with fun exercises.",
+      "features": ["Video classes", "Notes", "Assignments"],
+      "reviews": [
+        {
+          "user": "study_geek",
+          "rating": 4,
+          "comment": "Very useful for SSC/HSC students."
+        }
+      ]
+    },
+    {
+      "id": "app005",
+      "name": "Task Ninja",
+      "developer": "ProductivePro",
+      "thumbnail": "https://i.ibb.co.com/PGKgN0s8/images-4.png",
+      "banner": "https://i.ibb.co.com/KxLBq1n8/images-3.png",
+      "downloads": 800000,
+      "category": "Productivity",
+      "rating": 4.2,
+      "promotion": true,
+      "description": "Manage your time and tasks like a ninja!",
+      "features": ["To-do lists", "Reminders", "Focus mode"],
+      "reviews": [
+        {
+          "user": "organizer_me",
+          "rating": 4,
+          "comment": "Helped me finish work on time."
+        }
+      ]
+    },
+    {
+      "id": "app006",
+      "name": "Notely",
+      "developer": "NoteSoft",
+      "thumbnail": "https://i.ibb.co.com/yBczxVkD/images-6.png",
+      "banner": "https://i.ibb.co.com/QvPW7pFc/410-T7-NJk-g-L.png",
+      "downloads": 950000,
+      "category": "Productivity",
+      "rating": 4.5,
+      "promotion": false,
+      "description": "Take notes quickly and organize ideas.",
+      "features": ["Rich text editor", "Cloud sync", "Dark mode"],
+      "reviews": [
+        {
+          "user": "noter123",
+          "rating": 5,
+          "comment": "Simple and effective!"
+        }
+      ]
+    },
+    {
+      "id": "app007",
+      "name": "FocusZen",
+      "developer": "ZenTech",
+      "thumbnail": "https://i.ibb.co.com/x8LBrbmP/images-7.png",
+      "banner": "https://i.ibb.co.com/4g8T9jqm/story-352350-1738517755.jpg",
+      "downloads": 670000,
+      "category": "Productivity",
+      "rating": 4.1,
+      "promotion": true,
+      "description": "Block distractions and boost focus using FocusZen.",
+      "features": ["App blocker", "Pomodoro", "Stats"],
+      "reviews": [
+        {
+          "user": "quiet_worker",
+          "rating": 4,
+          "comment": "Keeps me on track daily."
+        }
+      ]
+    },
+    {
+      "id": "app008",
+      "name": "DailyPlanner",
+      "developer": "PlanSmart",
+      "thumbnail": "https://i.ibb.co.com/1Jqv4B0h/5ddf773854aeb.png",
+      "banner": "https://i.ibb.co.com/W4wt2LH0/Any-do-logo.png",
+      "downloads": 710000,
+      "category": "Productivity",
+      "rating": 3.9,
+      "promotion": false,
+      "description": "Plan your day ahead efficiently.",
+      "features": ["Calendar sync", "Smart planning", "Voice input"],
+      "reviews": [
+        {
+          "user": "planner_user",
+          "rating": 3,
+          "comment": "Good but needs polish."
+        }
+      ]
+    },
+    {
+      "id": "app009",
+      "name": "FitTrack",
+      "developer": "HealthFirst",
+      "thumbnail": "https://i.ibb.co.com/ZRc8Wx0Z/images-8.png",
+      "banner": "https://i.ibb.co.com/fzCTQHzS/fittrack.jpg",
+      "downloads": 1500000,
+      "category": "Health",
+      "rating": 4.4,
+      "promotion": true,
+      "description": "Track your steps, heart rate, and workouts.",
+      "features": ["Step counter", "Heart monitor", "Fitness goals"],
+      "reviews": [
+        {
+          "user": "runner_zahid",
+          "rating": 5,
+          "comment": "Very accurate step tracking."
+        }
+      ]
+    },
+    {
+      "id": "app010",
+      "name": "MediRemind",
+      "developer": "CareSoft",
+      "thumbnail": "https://i.ibb.co.com/4ZLMJS68/unnamed-1.png",
+      "banner": "https://i.ibb.co.com/B2pHDNM7/medireminder-apk.jpg",
+      "downloads": 950000,
+      "category": "Health",
+      "rating": 4.3,
+      "promotion": true,
+      "description": "Never forget to take your medication.",
+      "features": ["Pill reminders", "Dosage logs", "Alarm tone selection"],
+      "reviews": [
+        {
+          "user": "caregiver01",
+          "rating": 4,
+          "comment": "Helpful for my parents."
+        }
+      ]
+    },
+    {
+      "id": "app011",
+      "name": "CalmZone",
+      "developer": "RelaxTech",
+      "thumbnail": "https://i.ibb.co.com/35GTr8z2/images-9.png",
+      "banner": "https://i.ibb.co.com/35Hz9zNb/Projects-14-uai-2064x1071.png",
+      "downloads": 1100000,
+      "category": "Health",
+      "rating": 4.6,
+      "promotion": false,
+      "description": "Guided meditations and calming music.",
+      "features": ["Meditation", "Sleep aid", "Breathing exercises"],
+      "reviews": [
+        {
+          "user": "peaceful_mind",
+          "rating": 5,
+          "comment": "Helped with my insomnia."
+        }
+      ]
+    },
+    {
+      "id": "app012",
+      "name": "DietLog",
+      "developer": "NutriBase",
+      "thumbnail": "https://i.ibb.co.com/5xKjSmtZ/images.jpg",
+      "banner": "https://i.ibb.co.com/gZTK96vG/images-1.jpg",
+      "downloads": 670000,
+      "category": "Health",
+      "rating": 4.0,
+      "promotion": true,
+      "description": "Track calories and improve your diet.",
+      "features": ["Meal logging", "Calorie count", "Food scan"],
+      "reviews": [
+        {
+          "user": "health_lover",
+          "rating": 4,
+          "comment": "Lost 5kg in 3 weeks!"
+        }
+      ]
+    },
+    {
+      "id": "app013",
+      "name": "Free Fire",
+      "developer": "Garena",
+      "thumbnail": "https://i.ibb.co.com/cS0X3RXH/unnamed-3.png",
+      "banner": "https://i.ibb.co.com/CpVkwDV7/images-2.jpg",
+      "downloads": 90000000,
+      "category": "Games",
+      "rating": 4.7,
+      "promotion": true,
+      "description": "Survive in a 50-player battle royale!",
+      "features": ["Multiplayer", "Weapons", "Skins"],
+      "reviews": [
+        {
+          "user": "gamer_alim",
+          "rating": 5,
+          "comment": "Best survival game!"
+        }
+      ]
+    },
+    {
+      "id": "app014",
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "thumbnail": "https://i.ibb.co.com/9HSxssb5/82-827131-candy-crush-saga-logo-png-candy-crush-logo.jpg",
+      "banner": "https://i.ibb.co.com/JRFZCF81/images-3.jpg",
+      "downloads": 500000000,
+      "category": "Games",
+      "rating": 4.5,
+      "promotion": true,
+      "description": "Match candies and level up!",
+      "features": ["Colorful levels", "Boosters", "Challenges"],
+      "reviews": [
+        {
+          "user": "match3lover",
+          "rating": 4,
+          "comment": "So addictive!"
+        }
+      ]
+    },
+    {
+      "id": "app015",
+      "name": "Subway Surfers",
+      "developer": "SYBO",
+      "thumbnail": "https://i.ibb.co.com/FbNdF70T/unnamed-4.png",
+      "banner": "https://i.ibb.co.com/tTgD926y/maxresdefault.jpg",
+      "downloads": 2000000000,
+      "category": "Games",
+      "rating": 4.4,
+      "promotion": false,
+      "description": "Run, dodge, and dash as far as you can!",
+      "features": ["Characters", "Hoverboards", "Locations"],
+      "reviews": [
+        {
+          "user": "runner_guy",
+          "rating": 5,
+          "comment": "Childhood favorite!"
+        }
+      ]
+    },
+    {
+      "id": "app016",
+      "name": "Among Us",
+      "developer": "Innersloth",
+      "thumbnail": "https://i.ibb.co.com/bnphNVC/Among-Us-cover-art.jpg",
+      "banner": "https://i.ibb.co.com/TDgb2Pcc/among-us-mobile-surpasses-85-million-downloads.jpg",
+      "downloads": 300000000,
+      "category": "Games",
+      "rating": 4.2,
+      "promotion": false,
+      "description": "Find the impostor among the crewmates!",
+      "features": ["Multiplayer", "Tasks", "Voice chat"],
+      "reviews": [
+        {
+          "user": "sus_player",
+          "rating": 4,
+          "comment": "Very fun with friends!"
+        }
+      ]
+    }
+  ]
+  

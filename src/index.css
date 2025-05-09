@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+
+.link {
+  @apply text-gray-500;
+}
+
+.link:hover {
+  @apply text-green-400;
+}
+
+.link:active {
+  @apply text-green-400 border-b-2 border-b-green-400;
+}

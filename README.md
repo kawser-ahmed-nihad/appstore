@@ -53,7 +53,8 @@ Create a dynamic, user-friendly app store experience that showcases apps by cate
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/appnest.git
+git clone https://github.com/kawser-ahmed-nihad/appstore.git
+
 cd appnest
 ```
 
